@@ -24,8 +24,10 @@
 -	3 M3 8mm screws    
 
 ###### Circuitry
--
-	Part of the circuit layout.   
+-	Part of the circuit layout. Used female/male wires for LCD screen, potentiometer, push 
+	button, and sound sensor. RTC was connected onto breadboard. Arduino is placed on the base 
+	of moduleholder with the breadboard above it on the support walls. The gaps on the support 
+	walls are used to wrap longer wires around  
 	https://github.com/Saahil12/BE188-Final-Project/tree/master/CircuitLayout
 	
 ###### STL Files
