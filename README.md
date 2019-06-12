@@ -1,7 +1,7 @@
-Description 
+# Description 
 	For my final project for BE188 at UCLA I designed and created a music reactive lamp. The following sections below will provide enough information to create the product yourself. The user has the ability to control the brightness of the lamp through a potentiometer. The user also has the ability to switch modes from music reactive light to plain white light and vice versa through a switch button. The lamp also displays the day and time through an LCD screen.  
 
-Materials
+# Materials
 	Arduino Uno
 	Breadboard
 	Jumper Wires
@@ -19,19 +19,19 @@ Ikea Jar
 5’’ PVC pipe
 3 M3 8mm screws
 
-Circuitry
+# Circuitry
 	Part of the circuit layout. 
 	https://github.com/Saahil12/BE188-Final-Project/tree/master/CircuitLayout
 	
-STL Files
+# STL Files
 	The base is split into 3 separate pieces. The jar holder is super glued onto the top of moduleholder. The bottom screws into the base with 3 M3 screws. 
 	https://github.com/Saahil12/BE188-Final-Project/tree/master/STL_files
 
-Code
+# Code
  Adjust the defines according to circuit layout for digital and analog pins.
 	https://github.com/Saahil12/BE188-Final-Project/blob/master/FinalProject_.ino
 	
-Future Improvements 
+# Future Improvements 
 -	Power Arduino Uno from 5v power source instead of micro usb.
 
 
