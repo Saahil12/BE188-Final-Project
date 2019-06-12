@@ -31,7 +31,7 @@
 ###### STL Files
 -
 	The base is split into 3 separate pieces. The jar holder is super glued onto   
-	the top of moduleholder. The bottom screws into the base with 3 M3 screws. 
+	the top of moduleholder. The bottom screws into the base with 3 M3 screws.   
 	https://github.com/Saahil12/BE188-Final-Project/tree/master/STL_files
 
 ###### Code
