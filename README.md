@@ -39,7 +39,7 @@
 ###### Code
 -
  	Adjust the defines according to circuit layout for digital and analog pins.   
-	https://github.com/Saahil12/BE188-Final-Project/blob/master/FinalProject_.ino
+	https://github.com/Saahil12/BE188-Final-Project/tree/master/FinalProjectLib_  
 	
 ###### Future Improvements 
 -	Power Arduino Uno from 5v power source instead of micro usb.
