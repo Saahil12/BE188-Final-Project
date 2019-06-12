@@ -2,8 +2,8 @@
 	For my final project for BE188 at UCLA I designed and created a music reactive lamp.   
 	The following sections below will provide enough information to create the product yourself.   
 	The user has the ability to control the brightness of the lamp through a potentiometer. The user   
-	also has the ability to switch modes from music reactive light to plain white light and vice versa   
-	through a switch button. The lamp also displays the day and time through an LCD screen.    
+	also has the ability to switch modes between music reactive light or plain white light through a   
+	switch button. The lamp also displays the day and time through an LCD screen.    
 
 ###### Materials
 -	Arduino Uno  
