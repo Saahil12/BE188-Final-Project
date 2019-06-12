@@ -6,26 +6,23 @@
 	through a switch button. The lamp also displays the day and time through an LCD screen.    
 
 ###### Materials
--
-	Arduino Uno  
-	Breadboard  
-	Jumper Wires  
-	16X2 LCD Screen  
-	Switch Button  
-	Potentiometer  
-	RTC Clock + 2032B 3V battery  
-	RGB LED strip   
+-	Arduino Uno  
+-	Breadboard  
+-	Jumper Wires  
+-	16X2 LCD Screen  
+-	Switch Button  
+-	Potentiometer  
+-	RTC Clock + 2032B 3V battery  
+-	RGB LED strip   
 	-	https://www.amazon.com/gp/product/B072Q93T6H/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1  
-- 
-	Sound Sensor  
+-	Sound Sensor  
 	-	https://www.amazon.com/gp/product/B073S39CG4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1  
--
-	5V 3A power source   
+-	5V 3A power source   
 	- https://www.amazon.com/gp/product/B078RXZM4C/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1  
 -
-	Ikea Jar    
-	5’’ PVC pipe    
-	3 M3 8mm screws    
+-	Ikea Jar    
+-	5’’ PVC pipe    
+-	3 M3 8mm screws    
 
 ###### Circuitry
 -
